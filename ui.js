@@ -62,7 +62,7 @@ marked.setOptions({
       return (
       <div id="editor-panel">
         <div id="editor-header">Editor</div>
-      <textarea type="text" value={this.props.value} onChange={this.props.onChange} id="editor" placeholder="this is some text"/>
+      <textarea type="text" value={this.props.value} onChange={this.props.onChange} id="editor" placeholder="Start typing..."/>
         </div>
       );
     }
