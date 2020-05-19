@@ -38,7 +38,7 @@
 #root #preview-panel {
   background: black;
   width: 98vw;
-  font-size: calc(1em+10vw);
+  font-size: calc(3em+10vw);
   height: 55vh;
 }
 #root #preview-panel #preview {
